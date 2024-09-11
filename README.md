@@ -1,8 +1,13 @@
-# React + Vite
+# News-Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive informational website for a fictional news site. Built using React.js and CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse news
+- Responsive design for mobile, tablet, and desktop
+
+## Technologies Used
+
+- React.js
+- React-Router-Dom
